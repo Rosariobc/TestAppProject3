@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    // Margins and padding
+    <dimen name="margin">16dp</dimen>
+    <dimen name="padding">15dp</dimen>
+    <dimen name="small_margin">5dp</dimen>
+    <dimen name="image_regular">50dp</dimen>
+    <dimen name="image_extra">100dp</dimen>
+    <dimen name="division_line">2dp</dimen>
+
+    // Letter sizes
+    <dimen name="main_title">20sp</dimen>
+    <dimen name="title">18sp</dimen>
+    <dimen name="text">15sp</dimen>
+    <dimen name="small_text">12sp</dimen>
+    <dimen name="toast">40sp</dimen>
+
+</resources>

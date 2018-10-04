@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Test App Project 3</string>
+
+    // Test title
+    <string name="test_title">Immersive Realities test</string>
+
+    // Information title
+    <string name="information_title">Personal Information</string>
+
+    // Name Hint
+    <string name="name_hint">Your Name</string>
+
+    // questions title
+    <string name="questions_title">Now, please answer each question</string>
+
+
+    // question 1 title - Radio type
+    <string name="question_1_title">What XR technology is this image showing?</string>
+
+    // question 2 title  - Radio type
+    <string name="question_2_title">What are this headsets for?</string>
+
+    // question 3 title  - CheckBox type
+    <string name="question_3_title">Select which of the following are using Virtual Reality</string>
+
+    // question 4 title  - CheckBox type
+    <string name="question_4_title">Select which of the following are using Augmented Reality</string>
+
+    // question 5 title and Edit Text hint  - CheckBox type
+    <string name="question_5_title">What company is producing Oculus Go and Oculus Rift?</string>
+    <string name="answer_5_hint">Name of the Company</string>
+    <string name="answer_5">Facebook</string>
+
+
+    // Radio Option A
+    <string name="vr">Virtual Reality</string>
+
+    // Radio Option B
+    <string name="ar">Augmented Reality</string>
+
+    // Radio Option C
+    <string name="both">Both</string>
+
+    // Radio Option D
+    <string name="none">None</string>
+
+
+    // CheckBox Option A
+    <string name="option_a">Skype</string>
+
+    // CheckBox Option B
+    <string name="option_b">Pokémon Go</string>
+
+    // CheckBox Option C
+    <string name="option_c">VR Americas</string>
+
+    // CheckBox Option D
+    <string name="option_d">YouTube</string>
+
+    // CheckBox Option E
+    <string name="option_e">Snapchat</string>
+
+    // CheckBox Option F
+    <string name="option_f">Facebook</string>
+
+    // CheckBox Answered
+    <string name="answered">Question Completed</string>
+
+
+    //FINAL
+
+    // Send answer button
+    <string name="send_answer_button">send your answers! \nGood luck!!</string>
+
+    // Thank you for the answers
+    <string name="thank_you">Thank you!! </string>
+
+    // Sorry! Bad result
+    <string name="sorry">Sorry! Try again!! </string>
+
+    // Your Score message
+    <string name="score">\n Your test result is:  </string>
+
+    // Reset
+    <string name="reset_button">Again? </string>
+
+    // Information about VR Americas and weblink
+    <string name="info_vramericas">VR Americas LLC - www.vramericas.com</string>
+
+</resources>
